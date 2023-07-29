@@ -1,0 +1,4 @@
+API_KEY=<consumer key here>
+API_KEY_SECRET=<consumer secret here>
+ACCESS_TOKEN=<access token here>
+ACCESS_TOKEN_SECRET=<access token secret here>
